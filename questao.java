@@ -3,7 +3,7 @@ public class questao {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
 
-        System.out.println("Qual é o resultado da raiz quadrada de 4?:");
+        System.out.println("Qual é o resultado da raiz quadrada de 4?: ");
         System.out.println("a) 5");
         System.out.println("b) 4");
         System.out.println("c) 3");
