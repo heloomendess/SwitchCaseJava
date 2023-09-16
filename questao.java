@@ -8,6 +8,7 @@ public class questao {
         System.out.println("b) 4");
         System.out.println("c) 3");
         System.out.println("d) 2");
+        System.out.println("e) 1");
 
         System.out.println("Digite sua resposta: ");
         int resposta = entrada.nextInt();
